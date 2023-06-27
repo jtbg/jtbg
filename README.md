@@ -1,7 +1,6 @@
 <h1>
 <table align="center">
 <tr></tr>
-
 <tr>
 <td>
 <pre>
